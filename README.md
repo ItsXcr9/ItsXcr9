@@ -1,6 +1,6 @@
-# xcr9
+# Xcr9
 
-I am **xcr9**.
+I am **Xcr9**.
 
 A DevOps engineer and systems-focused builder who designs, operates, and questions infrastructure that runs in the real world — where failures happen, assumptions break, and systems are judged by how they behave under pressure.
 
